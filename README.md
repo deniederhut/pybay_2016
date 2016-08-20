@@ -38,4 +38,4 @@ The dataset used in this project is included as:
 
 ## License
 
-The contents of this repository are covered under this [license](License.md).
+The contents of this repository are covered under this [license](LICENSE.md).
